@@ -114,11 +114,11 @@ SSS    S*S  S*S    SSS  SSS    S*S  SSS    S*S  SSS     S*S
 
 \033[1;91m--> WHATSAAP   :- 92184067645
 
-\033[1;92m--> FACEBOOK   :-ARHAM KHAN 
+\033[1;92m--> FACEBOOK   :-ALI ARHAM 
 
 \033[1;93m--> THANKS TO   :- AWAIS KHAN
 
-\033[1;95m--> AUTHOR     :- ARHAM KHAN
+\033[1;95m--> AUTHOR     :- ALI ARHAM 
 
 \033[1;94m--> REQ     :- FOLLOW ME ON FB
 
@@ -201,7 +201,7 @@ SSS    S*S  S*S    SSS  SSS    S*S  SSS    S*S  SSS     S*S
 
 \033[1;95m--> AUTHOR     :- ARHAM KHAN
 
-\033[1;94m--> REQ  :- FOLLOW ME ON FB
+\033[1;94m--> THANKS TO  :- AWAIS KHAN
 
 """
 
