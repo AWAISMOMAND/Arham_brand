@@ -605,7 +605,7 @@ def pilih_crack():
 
 		jjt = raw_input("\033[1;92mINPUT NUMBARIC ID : \033[1;92m")
 
-		print "►▸▹►▸▹►▸▹►►▸▹►▸▹►▸▹►▸▹◃◄◅◃◄◅◃◄◅▸▹◃◄◅◃◄◅◃◄◅"
+	
 
 		try:
 
