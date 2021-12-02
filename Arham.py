@@ -661,7 +661,7 @@ def pilih_crack():
 
 	jalan(' \033[1;95mPlease Wait Cracked Accounts Will Appear Here')
 
-        Started Cracking Wait A while ')
+
 
 	print "\033[1;91m----------------------------------------"
 
