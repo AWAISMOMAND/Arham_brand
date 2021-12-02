@@ -897,7 +897,7 @@ def pilih_crack():
 
 	p.map(main, id)
 
-	print "▤▤▤▤▤▤▤▤▤▤▤▤▤▤▤▤▤▤▤▤▤▤▤▤▤▤▤▤▤▤▤"
+	
 
 	print "  ARHAM KHAN" #ARK-P2
 
