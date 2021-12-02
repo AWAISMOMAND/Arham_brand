@@ -1004,7 +1004,7 @@ def brute():
 
                         dapat = open('Brute.txt', 'w')
 
-                        dapat.write(email + ' ● ' + pw + '\n')
+    
 
                         dapat.close()
 
